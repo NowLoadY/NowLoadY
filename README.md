@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is NowLoadY, and I'm so glad to notice that you are interested in my stories!
+I am a college student, and I'm so interested in Robotics! That's the reason why I came here. The environment in here is good, everyone is full of kindness and patience, and it's not hard to see: everyone in GitHub all has a fighting-heart.  
+  
+I like watching Japan's anime, and I like drawing too! Then, games are indispensable! Recently, I'm playing with WatchDogs2, it's a great work finished by Ubisoft:  
 
 <!--
 **NowLoadY/NowLoadY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
