@@ -26,8 +26,8 @@ movie: Interstellar
 <img src="https://i.pinimg.com/originals/99/0f/ae/990fae21b0a8c52347bc45269ce1a7aa.jpg" width="50%" height="50%">  
 🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠  
 ---
-<div align=center>Heared that the people who keep this picture could be a good programmer in the future --> <img src="https://github.com/NowLoadY/NowLoadY/blob/main/photos%20in%20md/dog.jpg" width="10%" height="10%"></div>
-  
+<div align=center>Heared that the people who keep this picture could be a good programmer in the future --> <img src="https://github.com/NowLoadY/NowLoadY/blob/main/photos%20in%20md/dog.jpg" width="10%" height="10%"></div>  
+<embed src="//music.163.com/style/swf/widget.swf?sid=40915691&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 <!--
 **NowLoadY/NowLoadY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
