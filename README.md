@@ -22,8 +22,6 @@ movie: Interstellar🌠
 &ensp;&ensp;My name is Danny, and I'm so surprised to notice that you are interested in my stories!
 I am a college student who is studying "mechanical design and manufacturing and its automation", and I'm so interested in Robotics! That's the reason why I came here. The environment in here is good, everyone is full of kindness and patience, and it's not hard to see: everyone in GitHub all has a fighting-heart.  
 &ensp;&ensp;I like watching Japan's anime, and I like drawing too! Then, games are indispensable! Recently, I'm playing with WatchDogs2, it's a great work finished by Ubisoft.  
-  
-&ensp;&ensp;I’m currently working on a RC-car and my teacher in lab is leading me to do a research on computer vision in inagriculture. In my imagination, My RC-car should have some amazing ways to be controlled, I can't stop thinking how it would be if I use my Samsung Galaxy Watch to control it! And its control program is going to be wrote in dart, which is the main language of flutter. I'm also writing an RC-car's program: [Program Tyres](https://github.com/NowLoadY/ProgramTyres), which includes "dealing with sensors signal", "controling motor in a correct speed" and so on, and I have a partner work on it with me, for the reason that it needs to fit too many kinds of tyres😄  
 <!--
 **NowLoadY/NowLoadY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
