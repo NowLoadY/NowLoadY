@@ -1,4 +1,4 @@
-Email：llzhandsome2@qq.com
+Email：llzhandsome2@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=NowLoadY&count_private=true&show_icons=false&theme=gruvbox&locale=cn&show_owner=true" alt="logo" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />  
 
